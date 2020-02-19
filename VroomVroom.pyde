@@ -1,5 +1,4 @@
 
-
 xv, yv = 100, 70  # position x et y de la voiture
 vyv, vxv = 0, 0   # vitesse x et y de la voiture
 
